@@ -90,7 +90,7 @@ def trip_duration_stats(df):
     start_time = time.time()
 
     # display total travel time
-
+    sum(df['Trip_Duration'])
 
     # display mean travel time
 
