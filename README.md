@@ -7,7 +7,7 @@ This project was created on 12/13/2024.
 Udacity Git Project
 
 ### Description
-This project is about fulfilling the git udacity project. Looks like it's analyzing bike sharing data
+This project is about fulfilling the git udacity project. It analyzes bike sharing data and outputing summary infortion when requested by the user
 
 ### Files used
 bikeshare_2.py, chicago.csv, new_york_city.csv, washington.csv
